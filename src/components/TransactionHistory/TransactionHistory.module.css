@@ -1,0 +1,17 @@
+.transaction_history {
+  width: 500px;
+}
+
+.table_header {
+  background-color: aqua;
+  height: 50px;
+}
+
+.table_row {
+  text-align: center;
+  height: 30px;
+}
+
+.table_row:nth-child(2n) {
+  background-color: rgb(206, 203, 203);
+}
